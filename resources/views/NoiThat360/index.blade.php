@@ -3,7 +3,7 @@
 @section('content')
 
 <div class="w-full bg-blue-700">
-    <p class="text-gray-600">Content index page</p>
+    <p class="text-cyan-800">Content index page</p>
 </div>
 
 @endsection
