@@ -8,8 +8,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/navbar', function () {
-    return view('NoiThat360.layouts.navigation');
+Route::get('/app', function () {
+    return view('NoiThat360.layouts.app');
 });
 
 Route::get('/dashboard', function () {
